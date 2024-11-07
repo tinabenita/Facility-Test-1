@@ -1,0 +1,80 @@
+[
+  {
+    "ContainingType": "FEM.Core.Facility.Api.Controllers.FacilityController",
+    "Method": "GetFacilities",
+    "RelativePath": "api/Facility",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "FEM.Core.Facility.Api.Controllers.FacilityController",
+    "Method": "CreateFacility",
+    "RelativePath": "api/Facility",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "FEM.Core.Facility.Api.Controllers.FacilityController",
+    "Method": "GetFacilityById",
+    "RelativePath": "api/Facility/{FacilityId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "FacilityId",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "FEM.Core.Facility.Api.Controllers.FacilityController",
+    "Method": "UpdateFacility",
+    "RelativePath": "api/Facility/{FacilityId}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "FacilityId",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "FEM.Core.Facility.Api.Controllers.FacilityController",
+    "Method": "DeleteFacility",
+    "RelativePath": "api/Facility/{FacilityId}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "FacilityId",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "FEM.Core.Facility.Api.Controllers.FacilityController",
+    "Method": "GetFacilityNameIdPair",
+    "RelativePath": "api/Facility/NameId",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]

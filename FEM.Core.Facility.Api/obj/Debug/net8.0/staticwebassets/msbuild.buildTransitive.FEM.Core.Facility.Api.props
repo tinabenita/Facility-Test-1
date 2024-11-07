@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\FEM.Core.Facility.Api.props" />
+</Project>

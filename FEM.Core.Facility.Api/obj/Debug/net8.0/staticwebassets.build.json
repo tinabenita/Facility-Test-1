@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "ESwKdRljjPiLFI8W+CzgpRfgpGtVxu2dkkdkJRM+zFk=",
+  "Source": "FEM.Core.Facility.Api",
+  "BasePath": "_content/FEM.Core.Facility.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

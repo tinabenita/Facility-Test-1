@@ -1,0 +1,15 @@
+C:\Users\tiber\source\repos\FEM.Core.Facility\FEM.Core.Facility.Application\bin\Debug\net8.0\FEM.Core.Facility.Application.deps.json
+C:\Users\tiber\source\repos\FEM.Core.Facility\FEM.Core.Facility.Application\bin\Debug\net8.0\FEM.Core.Facility.Application.dll
+C:\Users\tiber\source\repos\FEM.Core.Facility\FEM.Core.Facility.Application\bin\Debug\net8.0\FEM.Core.Facility.Application.pdb
+C:\Users\tiber\source\repos\FEM.Core.Facility\FEM.Core.Facility.Application\bin\Debug\net8.0\FEM.Core.Facility.Domain.dll
+C:\Users\tiber\source\repos\FEM.Core.Facility\FEM.Core.Facility.Application\bin\Debug\net8.0\FEM.Core.Facility.Domain.pdb
+C:\Users\tiber\source\repos\FEM.Core.Facility\FEM.Core.Facility.Application\obj\Debug\net8.0\FEM.Core.Facility.Application.csproj.AssemblyReference.cache
+C:\Users\tiber\source\repos\FEM.Core.Facility\FEM.Core.Facility.Application\obj\Debug\net8.0\FEM.Core.Facility.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tiber\source\repos\FEM.Core.Facility\FEM.Core.Facility.Application\obj\Debug\net8.0\FEM.Core.Facility.Application.AssemblyInfoInputs.cache
+C:\Users\tiber\source\repos\FEM.Core.Facility\FEM.Core.Facility.Application\obj\Debug\net8.0\FEM.Core.Facility.Application.AssemblyInfo.cs
+C:\Users\tiber\source\repos\FEM.Core.Facility\FEM.Core.Facility.Application\obj\Debug\net8.0\FEM.Core.Facility.Application.csproj.CoreCompileInputs.cache
+C:\Users\tiber\source\repos\FEM.Core.Facility\FEM.Core.Facility.Application\obj\Debug\net8.0\FEM.Core.C4713CEE.Up2Date
+C:\Users\tiber\source\repos\FEM.Core.Facility\FEM.Core.Facility.Application\obj\Debug\net8.0\FEM.Core.Facility.Application.dll
+C:\Users\tiber\source\repos\FEM.Core.Facility\FEM.Core.Facility.Application\obj\Debug\net8.0\refint\FEM.Core.Facility.Application.dll
+C:\Users\tiber\source\repos\FEM.Core.Facility\FEM.Core.Facility.Application\obj\Debug\net8.0\FEM.Core.Facility.Application.pdb
+C:\Users\tiber\source\repos\FEM.Core.Facility\FEM.Core.Facility.Application\obj\Debug\net8.0\ref\FEM.Core.Facility.Application.dll
