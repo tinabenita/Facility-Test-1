@@ -10,7 +10,7 @@
 /// <param name="Country">Country of the facility</param>
 /// <param name="Pincode">Pincode of the facility</param>
 /// <param name="OrgId">Organization Id</param>
-internal record Facility(
+public record Facility(
     Guid FacilityId, 
     string Name,  
     string StreetAddress,

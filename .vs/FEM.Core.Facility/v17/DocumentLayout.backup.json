@@ -9,18 +9,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{8C136B8B-9BD2-47B6-8EBF-90FD048BA281}|FEM.Core.Facility.Domain\\FEM.Core.Facility.Domain.csproj|c:\\users\\tiber\\source\\repos\\fem.core.facility\\fem.core.facility.domain\\facility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8C136B8B-9BD2-47B6-8EBF-90FD048BA281}|FEM.Core.Facility.Domain\\FEM.Core.Facility.Domain.csproj|solutionrelative:fem.core.facility.domain\\facility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{87A92389-4178-49D8-A0F5-3DA1AA2ADEEF}|FEM.Core.Facility.Api\\FEM.Core.Facility.Api.csproj|c:\\users\\tiber\\source\\repos\\fem.core.facility\\fem.core.facility.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{87A92389-4178-49D8-A0F5-3DA1AA2ADEEF}|FEM.Core.Facility.Api\\FEM.Core.Facility.Api.csproj|solutionrelative:fem.core.facility.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C21F3D0C-97F5-4FD4-94F9-FDE5D7A697E7}|FEM.Core.Facility.Infrastructure\\FEM.Core.Facility.Infrastructure.csproj|c:\\users\\tiber\\source\\repos\\fem.core.facility\\fem.core.facility.infrastructure\\fem.core.facility.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{C21F3D0C-97F5-4FD4-94F9-FDE5D7A697E7}|FEM.Core.Facility.Infrastructure\\FEM.Core.Facility.Infrastructure.csproj|solutionrelative:fem.core.facility.infrastructure\\fem.core.facility.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{87A92389-4178-49D8-A0F5-3DA1AA2ADEEF}|FEM.Core.Facility.Api\\FEM.Core.Facility.Api.csproj|c:\\users\\tiber\\source\\repos\\fem.core.facility\\fem.core.facility.api\\fem.core.facility.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{87A92389-4178-49D8-A0F5-3DA1AA2ADEEF}|FEM.Core.Facility.Api\\FEM.Core.Facility.Api.csproj|solutionrelative:fem.core.facility.api\\fem.core.facility.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -51,8 +39,17 @@
           "SelectedChildIndex": 1,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Facility.cs",
+              "DocumentMoniker": "C:\\Users\\tiber\\source\\repos\\FEM.Core.Facility\\FEM.Core.Facility.Domain\\Facility.cs",
+              "RelativeDocumentMoniker": "FEM.Core.Facility.Domain\\Facility.cs",
+              "ToolTip": "C:\\Users\\tiber\\source\\repos\\FEM.Core.Facility\\FEM.Core.Facility.Domain\\Facility.cs",
+              "RelativeToolTip": "FEM.Core.Facility.Domain\\Facility.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T14:05:18.895Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -62,61 +59,9 @@
               "RelativeDocumentMoniker": "FEM.Core.Facility.Api\\Controllers\\FacilityController.cs",
               "ToolTip": "C:\\Users\\tiber\\source\\repos\\FEM.Core.Facility\\FEM.Core.Facility.Api\\Controllers\\FacilityController.cs",
               "RelativeToolTip": "FEM.Core.Facility.Api\\Controllers\\FacilityController.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAQwCoAAAAYAAAAAAAAAA==",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAwBoAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-06T13:40:31.142Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Facility.cs",
-              "DocumentMoniker": "C:\\Users\\tiber\\source\\repos\\FEM.Core.Facility\\FEM.Core.Facility.Domain\\Facility.cs",
-              "RelativeDocumentMoniker": "FEM.Core.Facility.Domain\\Facility.cs",
-              "ToolTip": "C:\\Users\\tiber\\source\\repos\\FEM.Core.Facility\\FEM.Core.Facility.Domain\\Facility.cs",
-              "RelativeToolTip": "FEM.Core.Facility.Domain\\Facility.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAnAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-06T12:13:25.892Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\tiber\\source\\repos\\FEM.Core.Facility\\FEM.Core.Facility.Api\\Program.cs",
-              "RelativeDocumentMoniker": "FEM.Core.Facility.Api\\Program.cs",
-              "ToolTip": "C:\\Users\\tiber\\source\\repos\\FEM.Core.Facility\\FEM.Core.Facility.Api\\Program.cs",
-              "RelativeToolTip": "FEM.Core.Facility.Api\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-06T12:10:37.041Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "FEM.Core.Facility.Infrastructure",
-              "DocumentMoniker": "C:\\Users\\tiber\\source\\repos\\FEM.Core.Facility\\FEM.Core.Facility.Infrastructure\\FEM.Core.Facility.Infrastructure.csproj",
-              "RelativeDocumentMoniker": "FEM.Core.Facility.Infrastructure\\FEM.Core.Facility.Infrastructure.csproj",
-              "ToolTip": "C:\\Users\\tiber\\source\\repos\\FEM.Core.Facility\\FEM.Core.Facility.Infrastructure\\FEM.Core.Facility.Infrastructure.csproj",
-              "RelativeToolTip": "FEM.Core.Facility.Infrastructure\\FEM.Core.Facility.Infrastructure.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-11-06T11:28:07.113Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "FEM.Core.Facility.Api",
-              "DocumentMoniker": "C:\\Users\\tiber\\source\\repos\\FEM.Core.Facility\\FEM.Core.Facility.Api\\FEM.Core.Facility.Api.csproj",
-              "RelativeDocumentMoniker": "FEM.Core.Facility.Api\\FEM.Core.Facility.Api.csproj",
-              "ToolTip": "C:\\Users\\tiber\\source\\repos\\FEM.Core.Facility\\FEM.Core.Facility.Api\\FEM.Core.Facility.Api.csproj",
-              "RelativeToolTip": "FEM.Core.Facility.Api\\FEM.Core.Facility.Api.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAOAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-11-06T11:24:15.4Z",
+              "WhenOpened": "2024-11-07T14:03:15.891Z",
               "EditorCaption": ""
             }
           ]

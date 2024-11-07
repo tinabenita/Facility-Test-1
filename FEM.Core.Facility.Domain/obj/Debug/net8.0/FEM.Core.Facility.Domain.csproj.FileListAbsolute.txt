@@ -9,3 +9,4 @@ C:\Users\tiber\source\repos\FEM.Core.Facility\FEM.Core.Facility.Domain\obj\Debug
 C:\Users\tiber\source\repos\FEM.Core.Facility\FEM.Core.Facility.Domain\obj\Debug\net8.0\refint\FEM.Core.Facility.Domain.dll
 C:\Users\tiber\source\repos\FEM.Core.Facility\FEM.Core.Facility.Domain\obj\Debug\net8.0\FEM.Core.Facility.Domain.pdb
 C:\Users\tiber\source\repos\FEM.Core.Facility\FEM.Core.Facility.Domain\obj\Debug\net8.0\ref\FEM.Core.Facility.Domain.dll
+C:\Users\tiber\source\repos\FEM.Core.Facility\FEM.Core.Facility.Domain\obj\Debug\net8.0\FEM.Core.Facility.Domain.sourcelink.json

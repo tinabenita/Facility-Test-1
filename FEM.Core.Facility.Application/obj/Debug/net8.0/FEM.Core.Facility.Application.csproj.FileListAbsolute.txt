@@ -13,3 +13,4 @@ C:\Users\tiber\source\repos\FEM.Core.Facility\FEM.Core.Facility.Application\obj\
 C:\Users\tiber\source\repos\FEM.Core.Facility\FEM.Core.Facility.Application\obj\Debug\net8.0\refint\FEM.Core.Facility.Application.dll
 C:\Users\tiber\source\repos\FEM.Core.Facility\FEM.Core.Facility.Application\obj\Debug\net8.0\FEM.Core.Facility.Application.pdb
 C:\Users\tiber\source\repos\FEM.Core.Facility\FEM.Core.Facility.Application\obj\Debug\net8.0\ref\FEM.Core.Facility.Application.dll
+C:\Users\tiber\source\repos\FEM.Core.Facility\FEM.Core.Facility.Application\obj\Debug\net8.0\FEM.Core.Facility.Application.sourcelink.json

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FEM.Core.Facility.Api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2ef16e10bb7dda8fb04ab4894de6fb6e136bb29e")]
 [assembly: System.Reflection.AssemblyProductAttribute("FEM.Core.Facility.Api")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FEM.Core.Facility.Api")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
