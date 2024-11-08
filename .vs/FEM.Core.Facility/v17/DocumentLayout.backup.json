@@ -9,6 +9,14 @@
     {
       "AbsoluteMoniker": "D:0:0:{8C136B8B-9BD2-47B6-8EBF-90FD048BA281}|FEM.Core.Facility.Domain\\FEM.Core.Facility.Domain.csproj|c:\\users\\tiber\\source\\repos\\fem.core.facility\\fem.core.facility.domain\\facility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8C136B8B-9BD2-47B6-8EBF-90FD048BA281}|FEM.Core.Facility.Domain\\FEM.Core.Facility.Domain.csproj|solutionrelative:fem.core.facility.domain\\facility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87A92389-4178-49D8-A0F5-3DA1AA2ADEEF}|FEM.Core.Facility.Api\\FEM.Core.Facility.Api.csproj|c:\\users\\tiber\\source\\repos\\fem.core.facility\\fem.core.facility.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87A92389-4178-49D8-A0F5-3DA1AA2ADEEF}|FEM.Core.Facility.Api\\FEM.Core.Facility.Api.csproj|solutionrelative:fem.core.facility.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1F0EB99-56B7-4CD7-B96C-2FEB6130CEA5}|FEM.Core.Facility.Application\\FEM.Core.Facility.Application.csproj|c:\\users\\tiber\\source\\repos\\fem.core.facility\\fem.core.facility.application\\services\\getusersfacilities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1F0EB99-56B7-4CD7-B96C-2FEB6130CEA5}|FEM.Core.Facility.Application\\FEM.Core.Facility.Application.csproj|solutionrelative:fem.core.facility.application\\services\\getusersfacilities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -36,8 +44,34 @@
         },
         {
           "DockedWidth": 649,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\tiber\\source\\repos\\FEM.Core.Facility\\FEM.Core.Facility.Api\\Program.cs",
+              "RelativeDocumentMoniker": "FEM.Core.Facility.Api\\Program.cs",
+              "ToolTip": "C:\\Users\\tiber\\source\\repos\\FEM.Core.Facility\\FEM.Core.Facility.Api\\Program.cs*",
+              "RelativeToolTip": "FEM.Core.Facility.Api\\Program.cs*",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T13:25:55.427Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GetUsersFacilities.cs",
+              "DocumentMoniker": "C:\\Users\\tiber\\source\\repos\\FEM.Core.Facility\\FEM.Core.Facility.Application\\Services\\GetUsersFacilities.cs",
+              "RelativeDocumentMoniker": "FEM.Core.Facility.Application\\Services\\GetUsersFacilities.cs",
+              "ToolTip": "C:\\Users\\tiber\\source\\repos\\FEM.Core.Facility\\FEM.Core.Facility.Application\\Services\\GetUsersFacilities.cs",
+              "RelativeToolTip": "FEM.Core.Facility.Application\\Services\\GetUsersFacilities.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T13:23:46.484Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
@@ -59,7 +93,7 @@
               "RelativeDocumentMoniker": "FEM.Core.Facility.Api\\Controllers\\FacilityController.cs",
               "ToolTip": "C:\\Users\\tiber\\source\\repos\\FEM.Core.Facility\\FEM.Core.Facility.Api\\Controllers\\FacilityController.cs",
               "RelativeToolTip": "FEM.Core.Facility.Api\\Controllers\\FacilityController.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAwBoAAAAZAAAAAAAAAA==",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwBkAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-07T14:03:15.891Z",
               "EditorCaption": ""

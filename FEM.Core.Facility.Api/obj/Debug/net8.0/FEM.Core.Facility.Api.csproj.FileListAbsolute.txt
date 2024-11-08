@@ -34,3 +34,4 @@ C:\Users\tiber\source\repos\FEM.Core.Facility\FEM.Core.Facility.Api\obj\Debug\ne
 C:\Users\tiber\source\repos\FEM.Core.Facility\FEM.Core.Facility.Api\obj\Debug\net8.0\FEM.Core.Facility.Api.pdb
 C:\Users\tiber\source\repos\FEM.Core.Facility\FEM.Core.Facility.Api\obj\Debug\net8.0\FEM.Core.Facility.Api.genruntimeconfig.cache
 C:\Users\tiber\source\repos\FEM.Core.Facility\FEM.Core.Facility.Api\obj\Debug\net8.0\ref\FEM.Core.Facility.Api.dll
+C:\Users\tiber\source\repos\FEM.Core.Facility\FEM.Core.Facility.Api\obj\Debug\net8.0\FEM.Core.Facility.Api.sourcelink.json

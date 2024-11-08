@@ -11,6 +11,12 @@ namespace FEM.Core.Facility.Api.Controllers;
 [ApiController]
 public class FacilityController : ControllerBase
 {
+    private readonly IGetUsersFacilities _getUserFacilities;
+
+    public FacilityController(IGetUsersFacilities getUsersFacilities)
+    {
+        _getUserFacilities = getUsersFacilities;
+    }
     /// <summary>
     /// 
     /// </summary>
@@ -24,12 +30,12 @@ public class FacilityController : ControllerBase
 
         //TODO: List of facilities = 
 
-        IGetUsersFacilities getUsersFacilities = new GetUsersFacilities();
-
-        return Ok(getUsersFacilities.GetByOrgId());
+        //IGetUsersFacilities getUsersFacilities = new GetUsersFacilities();
+        var result = _getUserFacilities.GetByOrgId(Guid.NewGuid(), Guid.NewGuid());
+        return Ok(result);
     }
 
-    [HttpGet("{FacilityId: guid}")]
+    [HttpGet("{FacilityId}")]
     public async Task<IActionResult> GetFacilityById(Guid FacilityId)
     {
         return Ok();
@@ -47,13 +53,13 @@ public class FacilityController : ControllerBase
         return Created();
     }
 
-    [HttpPut("{FacilityId: guid}")]
+    [HttpPut("{FacilityId}")]
     public async Task<IActionResult> UpdateFacility(Guid FacilityId)
     {
         return Ok();
     }
 
-    [HttpDelete("{FacilityId: guid}")]
+    [HttpDelete("{FacilityId}")]
     public async Task<IActionResult> DeleteFacility(Guid FacilityId)
     {
         return Ok();

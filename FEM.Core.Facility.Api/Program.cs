@@ -1,4 +1,7 @@
 
+using FEM.Core.Facility.Application.Interfaces;
+using FEM.Core.Facility.Application.Services;
+
 namespace FEM.Core.Facility.Api
 {
     public class Program
@@ -13,6 +16,7 @@ namespace FEM.Core.Facility.Api
             // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
             builder.Services.AddEndpointsApiExplorer();
             builder.Services.AddSwaggerGen();
+            builder.Services.AddScoped<IGetUsersFacilities, GetUsersFacilities>();
 
             var app = builder.Build();
 
